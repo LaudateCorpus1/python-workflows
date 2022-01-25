@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/googleapis/python-workflows/compare/v1.5.0...v1.6.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#127](https://github.com/googleapis/python-workflows/issues/127)) ([9db415f](https://github.com/googleapis/python-workflows/commit/9db415fdcc3ac7372e07b060a06751d0c8804ba8))
+
 ## [1.5.0](https://www.github.com/googleapis/python-workflows/compare/v1.4.1...v1.5.0) (2021-11-05)
 
 
